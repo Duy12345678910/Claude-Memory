@@ -14,3 +14,4 @@ One line per note. Read this first, then open the notes that matter for the task
 
 ## Reference
 - [Memory setup](notes/memory-setup.md) — how memory syncs across PC/phone, the /save skill, Obsidian vaults
+- [Skills from videos](notes/claude-skills-from-videos.md) — plugins/skills the user saw in videos, install commands, /check and /teach skills, what is still missing
