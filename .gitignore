@@ -1,0 +1,4 @@
+# Obsidian per-device UI state
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
