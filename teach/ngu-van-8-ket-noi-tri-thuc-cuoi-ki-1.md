@@ -21,3 +21,9 @@ Tạo: 2026-11-08. Lưu ý: tên bài/văn bản cụ thể cần đối chiếu
 - Tổng điểm dạng Viết = 2 + 4 = 6/10.
 
 ## Cheat sheet
+
+### Bài 2 (đang học): đoạn NLXH — Tinh thần lạc quan
+- Lạc quan = nhìn mặt tích cực, tin vào tương lai, vẫn làm gì đó để vượt khó. KHÔNG phải "kệ nó/bỏ mặc".
+- Câu mở mẫu: Tinh thần lạc quan là thái độ luôn nhìn vào mặt tích cực của cuộc sống: không quá lo lắng trước khó khăn, gặp sai lầm thì sửa, rồi tiếp tục hướng về phía trước.
+- Câu chứng cứ = Ai + khó khăn gì + làm gì/kết quả.
+- Kho chứng cứ (tra lại chi tiết trước khi dùng): Bác Hồ (Nhật ký trong tù, Cảnh rừng Việt Bắc), Nguyễn Ngọc Ký, Nick Vujicic, Stephen Hawking, U23 Việt Nam 2018.
