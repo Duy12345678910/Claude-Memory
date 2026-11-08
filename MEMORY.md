@@ -13,4 +13,4 @@ One line per note. Read this first, then open the notes that matter for the task
 - [Design taste](notes/design-taste-american-editorial.md) — American/Shopify-Editions scroll style, reference sites, avoid YAAS font
 
 ## Reference
-- [Memory setup](notes/memory-setup.md) — how this memory system works across PC and phone
+- [Memory setup](notes/memory-setup.md) — how memory syncs across PC/phone, the /save skill, Obsidian vaults
