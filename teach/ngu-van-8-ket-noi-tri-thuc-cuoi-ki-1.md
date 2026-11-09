@@ -27,3 +27,13 @@ Tạo: 2026-11-08. Lưu ý: tên bài/văn bản cụ thể cần đối chiếu
 - Câu mở mẫu: Tinh thần lạc quan là thái độ luôn nhìn vào mặt tích cực của cuộc sống: không quá lo lắng trước khó khăn, gặp sai lầm thì sửa, rồi tiếp tục hướng về phía trước.
 - Câu chứng cứ = Ai + khó khăn gì + làm gì/kết quả.
 - Kho chứng cứ (tra lại chi tiết trước khi dùng): Bác Hồ (Nhật ký trong tù, Cảnh rừng Việt Bắc), Nguyễn Ngọc Ký, Nick Vujicic, Stephen Hawking, U23 Việt Nam 2018.
+
+### Mẫu trả lời Đọc hiểu của cô (ảnh bạn gửi 2026-11-09, đọc từ chữ viết tay — kiểm tra lại với vở)
+Đây là khuôn cho Câu 1–3 phần Đọc hiểu, KHÔNG phải dàn ý NLXH (dàn ý NLXH vẫn chờ).
+- **Câu 1: Thể thơ** — xác định thể thơ + chỉ ra dấu hiệu nhận biết (1đ).
+- **Câu 2: Từ ngữ/hình ảnh + nhận xét**
+  - Những từ ngữ/hình ảnh miêu tả đối tượng A là "…", "…", "…".
+  - Qua những từ ngữ/hình ảnh về A, ta thấy A + 3 tính từ.
+- **Câu 3: Biện pháp tu từ (BPTT)**
+  - Trong câu/đoạn thơ, tác giả đã sử dụng thành công BPTT A. Chỉ ra qua từ ngữ nào.
+  - BPTT A giúp câu thơ gợi hình, gợi cảm… Bên cạnh đó, BPTT nhấn mạnh… và thể hiện tình cảm (hài lòng…) của tác giả.
