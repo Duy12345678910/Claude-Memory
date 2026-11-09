@@ -37,3 +37,9 @@ Tạo: 2026-11-08. Lưu ý: tên bài/văn bản cụ thể cần đối chiếu
 - **Câu 3: Biện pháp tu từ (BPTT)**
   - Trong câu/đoạn thơ, tác giả đã sử dụng thành công BPTT A. Chỉ ra qua từ ngữ nào.
   - BPTT A giúp câu thơ gợi hình, gợi cảm… Bên cạnh đó, BPTT nhấn mạnh… và thể hiện tình cảm (hài lòng…) của tác giả.
+
+### Khuôn Câu 1: Thể thơ Đường luật (dùng cho mọi bài)
+1. Đếm số câu, số chữ/câu: 4 câu x 7 chữ = thất ngôn tứ tuyệt; 8 x 7 = thất ngôn bát cú; 4 x 5 = ngũ ngôn tứ tuyệt; 8 x 5 = ngũ ngôn bát cú.
+2. Tìm vần: gạch chân chữ cuối câu. Tứ tuyệt thường vần câu 1, 2, 4 (hoặc 2, 4). Bát cú thường vần câu 1, 2, 4, 6, 8 (hoặc 2, 4, 6, 8).
+3. Viết: "Bài thơ được viết theo thể [thể thơ]. Dấu hiệu: có [số câu] câu, mỗi câu [số chữ] chữ, gieo vần [vần] ở các chữ "…", "…" (cuối câu …)."
+- Ví dụ *Cảnh rừng Việt Bắc* (theo trí nhớ, đối chiếu đề): thất ngôn bát cú, 8 câu x 7 chữ, vần "ay": hay, ngày, quay, say, này.
