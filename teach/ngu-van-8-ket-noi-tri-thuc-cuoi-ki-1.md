@@ -43,3 +43,12 @@ Tạo: 2026-11-08. Lưu ý: tên bài/văn bản cụ thể cần đối chiếu
 2. Tìm vần: gạch chân chữ cuối câu. Tứ tuyệt thường vần câu 1, 2, 4 (hoặc 2, 4). Bát cú thường vần câu 1, 2, 4, 6, 8 (hoặc 2, 4, 6, 8).
 3. Viết: "Bài thơ được viết theo thể [thể thơ]. Dấu hiệu: có [số câu] câu, mỗi câu [số chữ] chữ, gieo vần [vần] ở các chữ "…", "…" (cuối câu …)."
 - Ví dụ *Cảnh rừng Việt Bắc* (theo trí nhớ, đối chiếu đề): thất ngôn bát cú, 8 câu x 7 chữ, vần "ay": hay, ngày, quay, say, này.
+
+### Bài 3 (cheat sheet): phân tích *Cảnh rừng Việt Bắc* — chép theo trí nhớ, đối chiếu đề/SGK
+Bài: thất ngôn bát cú Đường luật, 8 câu x 7 chữ, vần "ay" (hay, ngày, quay, say, này). Bố cục: đề (1-2), thực (3-4), luận (5-6), kết (7-8).
+- **Đề (1-2):** cảnh rừng đẹp, âm thanh vui tai (vượn hót, chim kêu).
+- **Thực (3-4):** "Khách đến thì mời ngô nếp nướng / Săn về thường chén thịt rừng quay". Hai câu đối nhau (khách đến/săn về, mời/chén, ngô nếp nướng/thịt rừng quay). Đạm bạc mà đầm ấm, tình đồng chí, mến khách, giọng vui.
+- **Luận (5-6):** "Non xanh nước biếc tha hồ dạo / Rượu ngọt chè tươi mặc sức say". Đối nhau. "Tha hồ", "mặc sức" = ung dung, tự do, phóng khoáng. "Say" = say cảnh, say tình. Lạc quan, yêu thiên nhiên.
+- **Kết (7-8):** "Kháng chiến thành công ta trở lại / Trăng xưa hạc cũ với xuân này". Tin chắc thắng lợi, lời hẹn trở về; "trăng xưa, hạc cũ" thanh cao, gắn bó thiên nhiên; "xuân" = mùa xuân thiên nhiên + đất nước độc lập. Giọng dí dỏm, nhẹ nhàng.
+- **Sợi dây xuyên suốt:** tình yêu thiên nhiên + tinh thần lạc quan của Bác. Dùng cho câu mở và câu chốt bài 400 chữ; cũng là chứng cứ cho Câu 5 (lạc quan).
+- Mẫu đoạn thực: tả bữa ăn giản dị qua "ngô nếp nướng", "thịt rừng quay" -> "qua đó ta thấy" cuộc sống đạm bạc, đầm ấm, vui vẻ -> phép đối làm câu thơ cân xứng -> thể hiện tình cảm và tinh thần lạc quan của Bác.
