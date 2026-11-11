@@ -52,3 +52,11 @@ Bài: thất ngôn bát cú Đường luật, 8 câu x 7 chữ, vần "ay" (hay,
 - **Kết (7-8):** "Kháng chiến thành công ta trở lại / Trăng xưa hạc cũ với xuân này". Tin chắc thắng lợi, lời hẹn trở về; "trăng xưa, hạc cũ" thanh cao, gắn bó thiên nhiên; "xuân" = mùa xuân thiên nhiên + đất nước độc lập. Giọng dí dỏm, nhẹ nhàng.
 - **Sợi dây xuyên suốt:** tình yêu thiên nhiên + tinh thần lạc quan của Bác. Dùng cho câu mở và câu chốt bài 400 chữ; cũng là chứng cứ cho Câu 5 (lạc quan).
 - Mẫu đoạn thực: tả bữa ăn giản dị qua "ngô nếp nướng", "thịt rừng quay" -> "qua đó ta thấy" cuộc sống đạm bạc, đầm ấm, vui vẻ -> phép đối làm câu thơ cân xứng -> thể hiện tình cảm và tinh thần lạc quan của Bác.
+
+### Lần làm bài 2026-11-11 (trang Vở bài tập) — lỗi cần nhớ
+- Mở bài: gọi đúng "bài thơ"; phải nêu ý chính (yêu thiên nhiên + lạc quan).
+- "Ta trở lại" = tin chắc thắng + hẹn trở lại với núi rừng Việt Bắc (không phải về quê).
+- "Tha hồ, mặc sức" = ung dung, tự do (câu 5-6), KHÔNG phải vui vì thắng lợi.
+- Câu chứng cứ hay thiếu: khó khăn cụ thể + kết quả.
+- Khuôn Câu 2: làm đúng khuôn; nhớ chỉ lấy từ ngữ trong phạm vi đề hỏi + đủ 3 tính từ.
+- Viết có dấu khi làm bài thi.
